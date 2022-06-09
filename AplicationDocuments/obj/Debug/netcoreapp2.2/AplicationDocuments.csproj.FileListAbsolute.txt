@@ -1,0 +1,14 @@
+C:\Users\ASUS\source\repos\ApiDocuments\AplicationDocuments\bin\Debug\netcoreapp2.2\AplicationDocuments.deps.json
+C:\Users\ASUS\source\repos\ApiDocuments\AplicationDocuments\bin\Debug\netcoreapp2.2\AplicationDocuments.dll
+C:\Users\ASUS\source\repos\ApiDocuments\AplicationDocuments\obj\Debug\netcoreapp2.2\AplicationDocuments.csprojAssemblyReference.cache
+C:\Users\ASUS\source\repos\ApiDocuments\AplicationDocuments\obj\Debug\netcoreapp2.2\AplicationDocuments.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\ApiDocuments\AplicationDocuments\obj\Debug\netcoreapp2.2\AplicationDocuments.AssemblyInfoInputs.cache
+C:\Users\ASUS\source\repos\ApiDocuments\AplicationDocuments\obj\Debug\netcoreapp2.2\AplicationDocuments.AssemblyInfo.cs
+C:\Users\ASUS\source\repos\ApiDocuments\AplicationDocuments\bin\Debug\netcoreapp2.2\AplicationDocuments.pdb
+C:\Users\ASUS\source\repos\ApiDocuments\AplicationDocuments\bin\Debug\netcoreapp2.2\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\ASUS\source\repos\ApiDocuments\AplicationDocuments\bin\Debug\netcoreapp2.2\System.Data.SqlClient.dll
+C:\Users\ASUS\source\repos\ApiDocuments\AplicationDocuments\bin\Debug\netcoreapp2.2\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\Users\ASUS\source\repos\ApiDocuments\AplicationDocuments\bin\Debug\netcoreapp2.2\System.Data.SqlClient.xml
+C:\Users\ASUS\source\repos\ApiDocuments\AplicationDocuments\obj\Debug\netcoreapp2.2\AplicationDocuments.csproj.CopyComplete
+C:\Users\ASUS\source\repos\ApiDocuments\AplicationDocuments\obj\Debug\netcoreapp2.2\AplicationDocuments.dll
+C:\Users\ASUS\source\repos\ApiDocuments\AplicationDocuments\obj\Debug\netcoreapp2.2\AplicationDocuments.pdb

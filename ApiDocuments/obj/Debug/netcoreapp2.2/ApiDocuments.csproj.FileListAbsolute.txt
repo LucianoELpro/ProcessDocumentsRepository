@@ -1,0 +1,17 @@
+C:\Users\ASUS\source\repos\ApiDocuments\ApiDocuments\bin\Debug\netcoreapp2.2\AplicationDocuments.dll
+C:\Users\ASUS\source\repos\ApiDocuments\ApiDocuments\obj\Debug\netcoreapp2.2\ApiDocuments.csprojAssemblyReference.cache
+C:\Users\ASUS\source\repos\ApiDocuments\ApiDocuments\obj\Debug\netcoreapp2.2\ApiDocuments.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\ApiDocuments\ApiDocuments\obj\Debug\netcoreapp2.2\ApiDocuments.RazorAssemblyInfo.cache
+C:\Users\ASUS\source\repos\ApiDocuments\ApiDocuments\obj\Debug\netcoreapp2.2\ApiDocuments.RazorAssemblyInfo.cs
+C:\Users\ASUS\source\repos\ApiDocuments\ApiDocuments\obj\Debug\netcoreapp2.2\ApiDocuments.AssemblyInfoInputs.cache
+C:\Users\ASUS\source\repos\ApiDocuments\ApiDocuments\obj\Debug\netcoreapp2.2\ApiDocuments.AssemblyInfo.cs
+C:\Users\ASUS\source\repos\ApiDocuments\ApiDocuments\obj\Debug\netcoreapp2.2\ApiDocuments.RazorTargetAssemblyInfo.cache
+C:\Users\ASUS\source\repos\ApiDocuments\ApiDocuments\bin\Debug\netcoreapp2.2\ApiDocuments.deps.json
+C:\Users\ASUS\source\repos\ApiDocuments\ApiDocuments\bin\Debug\netcoreapp2.2\ApiDocuments.runtimeconfig.json
+C:\Users\ASUS\source\repos\ApiDocuments\ApiDocuments\bin\Debug\netcoreapp2.2\ApiDocuments.runtimeconfig.dev.json
+C:\Users\ASUS\source\repos\ApiDocuments\ApiDocuments\bin\Debug\netcoreapp2.2\ApiDocuments.dll
+C:\Users\ASUS\source\repos\ApiDocuments\ApiDocuments\bin\Debug\netcoreapp2.2\ApiDocuments.pdb
+C:\Users\ASUS\source\repos\ApiDocuments\ApiDocuments\bin\Debug\netcoreapp2.2\AplicationDocuments.pdb
+C:\Users\ASUS\source\repos\ApiDocuments\ApiDocuments\obj\Debug\netcoreapp2.2\ApiDocuments.csproj.CopyComplete
+C:\Users\ASUS\source\repos\ApiDocuments\ApiDocuments\obj\Debug\netcoreapp2.2\ApiDocuments.dll
+C:\Users\ASUS\source\repos\ApiDocuments\ApiDocuments\obj\Debug\netcoreapp2.2\ApiDocuments.pdb
